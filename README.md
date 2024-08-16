@@ -1,5 +1,5 @@
-# ¡Hola! Soy Ender Puentes 👾
+# Hello! I’m Ender 👾
 
-Soy un desarrollador proactivo y apasionado con 8 años de carrera profesional en el campo del desarrollo de software. He trabajado con diversos lenguajes de programación, enfocado principalmente en el desarrollo de aplicaciones web. Mi experiencia incluye la creación de soluciones técnicas sólidas y escalables, abordando desafíos de manera creativa y eficiente.
+I’m a proactive and passionate developer with 8 years of professional experience in software development. I’ve worked with various programming languages, focusing primarily on web application development. My experience includes creating robust and scalable technical solutions, tackling challenges creatively and efficiently.
 
-He descubierto una gran pasión por los productos digitales, y me esfuerzo por garantizar que cada característica que desarrollo no solo cumpla, sino que supere las expectativas. Destaco por mi habilidad para colaborar en equipos multidisciplinarios y trabajar bajo presión, mostrando empatía y un firme compromiso con los objetivos del proyecto.
+I’ve discovered a great passion for digital products and strive to ensure that every feature I develop not only meets but exceeds expectations. I stand out for my ability to collaborate in multidisciplinary teams and work under pressure, showing empathy and a strong commitment to project goals.
