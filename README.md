@@ -1,8 +1,10 @@
 # Hi! I'm Ender 👾👋
 
-I'm a proactive and passionate developer with 8 years of experience in software development, specializing in web applications. I love building robust and scalable technical solutions, always seeking to tackle challenges creatively and efficiently.
+I'm a proactive and passionate developer with 8 years of experience in software development, primarily focused on web applications. I love building robust and scalable technical solutions, always seeking to tackle challenges creatively and efficiently.
 
 Throughout my career, I've worked with multiple languages and technologies, but beyond the code, what truly drives me is creating high-quality digital products. I strive to ensure that every feature I develop not only meets the requirements but also delivers real value.
+
+Recently, I've been diving into the world of LLMs with LangChain and expanding my knowledge in Python. I'm particularly focused on learning how to manage vector databases, work with agents, and leverage AI models for process optimization.
 
 I excel at collaborating with multidisciplinary teams and working under pressure, always with empathy and a strong commitment to project goals. Currently, I'm pursuing a Bachelor's degree in Systems Engineering at the Universidad de Los Andes, Venezuela.
 
@@ -20,6 +22,8 @@ See you in the code! 🚀
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/docs.php)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/doc/)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
 
 ### Web Development
 
@@ -36,15 +40,17 @@ See you in the code! 🚀
 
 ### Cloud Services
 
+[![Dokku](https://img.shields.io/badge/Dokku-7B3FE4?style=for-the-badge&logo=dokku&logoColor=white)](https://dokku.com/docs)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/docs)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/docs)
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/docs)
 [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://devcenter.heroku.com/)
 [![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://docs.github.com/en/actions)
 [![AWS S3/EC2](https://img.shields.io/badge/AWS_S3/EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/documentation/)
-[![Lambda Functions](https://img.shields.io/badge/Lambda_Functions-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)](https://docs.aws.amazon.com/lambda/)
-[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.io/docs)
+[![Cloud Funtions - Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/docs)
+[![Edge Funtions - Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.io/docs)
+[![Lambda Functions - AWS](https://img.shields.io/badge/Lambda_Functions-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)](https://docs.aws.amazon.com/lambda/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://beta.openai.com/docs/)
+[![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)](https://langchain.com/docs)
 
 ### Database Management
 
@@ -54,6 +60,9 @@ See you in the code! 🚀
 [![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/learn/)
 [![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/docs/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
+[![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/docs/firestore)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://docs.mongodb.com/)
+
 
 ### DevOps
 
